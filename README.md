@@ -67,4 +67,8 @@ E o campo exibe o placeholder "O que preciso fazer?"
 - Criar um repositório público com foco em documentação de qualidade
 
 
+## 📌 Observação
+
+Este projeto não contém código-fonte, pois seu foco principal é o desenvolvimento do raciocínio crítico em QA e a prática de boas práticas de documentação de requisitos.  
+É um exercício fundamental para fortalecer a base teórica e técnica necessária para garantir a qualidade em projetos de software.
 
