@@ -31,15 +31,17 @@ Nome e breve descrição da funcionalidade documentada.
 ### 📝 User Story
 
 História do usuário no formato:
-Eu como [tipo de usuário]
-Gostaria de [ação/função]
-Porque [benefício/objetivo]
+- Eu como [tipo de usuário]  
+- Gostaria de [ação/função]  
+- Porque [benefício/objetivo]
+
 
 
 ### 📌 Regras de Negócio
 
 Regras específicas que devem ser respeitadas na funcionalidade. Exemplo:
 - RN1: O campo de input deve conter o placeholder "O que preciso fazer?"
+
 
 ### ✅ Critérios de Aceite
 
@@ -55,13 +57,11 @@ E o campo exibe o placeholder "O que preciso fazer?"
 ---
 
 ### 🛠️ Objetivo do Projeto
-Praticar escrita técnica para QA
 
-Simular funcionalidades reais em um formato documentado
-
-Reforçar o uso de critérios de aceite como base para testes
-
-Criar um repositório público com foco em documentação de q
+- Praticar escrita técnica para QA
+- Simular funcionalidades reais em um formato documentado  
+- Reforçar o uso de critérios de aceite como base para testes  
+- Criar um repositório público com foco em documentação de qualidade
 
 
 
