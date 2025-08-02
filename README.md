@@ -1,5 +1,7 @@
 # 🧾 Documentação de Qualidade: User Stories na Prática
 
+[📖 Documentação Completa no Miro](https://miro.com/app/board/uXjVJbf3FUE=/?share_link_id=300042583615)  
+
 Este repositório é parte do meu processo de aprendizado em QA. Aqui documento, de forma prática e estratégica, o uso de **user stories, regras de negócio e critérios de aceite** como base para requisitos e testes de software.
 
 A ideia é treinar a clareza na escrita técnica, criar uma estrutura consistente para funcionalidades e exercitar o olhar crítico sobre o que deve ser testado em uma aplicação.
@@ -48,6 +50,7 @@ Dado que estou na aplicação
 Quando visualizo o campo de input
 Então consigo digitar um texto
 E o campo exibe o placeholder "O que preciso fazer?"
+```
 
 ---
 
