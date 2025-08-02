@@ -37,10 +37,13 @@ História do usuário no formato:
 
 
 
+
 ### 📌 Regras de Negócio
 
 Regras específicas que devem ser respeitadas na funcionalidade. Exemplo:
 - RN1: O campo de input deve conter o placeholder "O que preciso fazer?"
+
+
 
 
 ### ✅ Critérios de Aceite
