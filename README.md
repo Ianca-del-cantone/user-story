@@ -31,7 +31,7 @@ Nome e breve descrição da funcionalidade documentada.
 ### 📝 User Story
 
 História do usuário no formato:
-- Eu como [tipo de usuário]  
+- Eu [tipo de usuário]  
 - Gostaria de [ação/função]  
 - Porque [benefício/objetivo]
 
