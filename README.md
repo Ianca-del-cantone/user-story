@@ -49,7 +49,9 @@ Quando visualizo o campo de input
 Então consigo digitar um texto
 E o campo exibe o placeholder "O que preciso fazer?"
 
-🛠️ Objetivo do Projeto
+---
+
+### 🛠️ Objetivo do Projeto
 Praticar escrita técnica para QA
 
 Simular funcionalidades reais em um formato documentado
