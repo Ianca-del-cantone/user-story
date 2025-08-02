@@ -68,7 +68,9 @@ E o campo exibe o placeholder "O que preciso fazer?"
 
 
 ## 📌 Observação
+## 📌 Observação
 
-Este projeto não contém código-fonte, pois seu foco principal é o desenvolvimento do raciocínio crítico em QA e a prática de boas práticas de documentação de requisitos.  
-É um exercício fundamental para fortalecer a base teórica e técnica necessária para garantir a qualidade em projetos de software.
+Este projeto não contém código-fonte, pois seu foco principal é desenvolver o raciocínio crítico em QA e a documentação de requisitos.  
+É um exercício essencial para fortalecer a base teórica e técnica necessária para garantir a qualidade em projetos de software.
+
 
